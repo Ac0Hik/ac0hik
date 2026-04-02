@@ -1,4 +1,6 @@
-# Hi, I'm Achik aka ac0hik or aaaachik👋
+# Hi, I'm Achik 👋
+
+aka ac0hik
 
 Data Engineer · I love building things and I have a ton of fun doing it.
 
