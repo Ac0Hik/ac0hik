@@ -11,10 +11,6 @@ so this account's been quiet. Back now and ready to commit here too.
 
 ## 🛠 Tools
 
-## 🛠 Tools
-
-## 🛠 Tools
-
 **Data Engineering**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -49,4 +45,4 @@ so this account's been quiet. Back now and ready to commit here too.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://linkedin.com/in/achik-aznag)
 
 
-![banner](https://github.com/user-attachments/assets/dc7fad03-0977-4171-aaad-27fbe146c57f)
+![banner](./assets/banner.gif)
