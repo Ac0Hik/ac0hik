@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Achik aka ac0hik or aaaachik👋
 
-<!--
-**Ac0Hik/ac0hik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer · I love building things and I have a ton of fun doing it.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just came back after a break — most of my recent work lived in external repos,
+so this account's been quiet. Back now and ready to commit here too.
+
+---
+
+## 🛠 Tools
+
+**Data Engineering:** Python · SQL · Apache Spark · Kafka · Airflow · dbt · Databricks
+
+**Cloud & DevOps:** Azure · AWS · Docker · Kubernetes · Git · CI/CD
+
+**Databases:** PostgreSQL · MySQL · InfluxDB · MongoDB
+
+**AI & Web:** FastAPI · Flask · Django · RAG · PyTorch · TensorFlow · R
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://linkedin.com/in/achik-aznag)
+
+
+![dev_grind](https://github.com/user-attachments/assets/39c36695-453e-4302-ac38-e![banner](https://github.com/user-attachments/assets/dc7fad03-0977-4171-aaad-27fbe146c57f)
