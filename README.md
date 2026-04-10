@@ -43,12 +43,6 @@ so this account's been quiet. Back now and ready to commit here too.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://linkedin.com/in/achik-aznag)
-
----
-
 ## 🚀 Projects
 
 ### ✈️ [ADS-B Flight Telemetry Pipeline](https://github.com/Ac0Hik/adsb-flight-telemetry-pipeline)
@@ -66,5 +60,10 @@ Three CamemBERT-based classifiers for French text — sentiment, emotion, and sa
 ### 🎵 [Moroccan Music Dataset](https://www.kaggle.com/datasets/ac0hik/moroccan-music-data)
 Curated dataset of Moroccan music — used to train the music genre classifier and referenced in independent research for Moroccan music generation via diffusion models.
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://linkedin.com/in/achik-aznag)
+
+---
 
 ![banner](./assets/banner.gif)
