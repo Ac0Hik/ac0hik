@@ -47,5 +47,24 @@ so this account's been quiet. Back now and ready to commit here too.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://linkedin.com/in/achik-aznag)
 
+---
+
+## 🚀 Projects
+
+### ✈️ [ADS-B Flight Telemetry Pipeline](https://github.com/Ac0Hik/adsb-flight-telemetry-pipeline)
+Production-grade Lambda architecture ingesting real-time aircraft position data from the OpenSky Network. Streaming layer with PySpark Structured Streaming (~11k records/batch), nightly batch processing for flight reconstruction and anomaly detection, gold aggregates served via dbt on Delta Lake, full orchestration with Apache Airflow 2.9, and the entire stack provisioned as code with Terraform.
+
+---
+
+### 🇫🇷 [French NLP Suite](https://github.com/Ac0Hik/Sentiment_emotion_sarcasm_classiferFR) · [![HuggingFace](https://img.shields.io/badge/HuggingFace-88k%20downloads-orange?logo=huggingface)](https://huggingface.co/ac0hik)
+Three CamemBERT-based classifiers for French text — sentiment, emotion, and sarcasm. **88,000+ downloads** on Hugging Face.
+
+> 📄 Cited in *"A Riddle in a Haystack"* (Cafiero & Puren, Digital Humanities 2025 · PSL / EPITA) — used as a core component in an authorship attribution pipeline for 19th-century French literature. [[Paper ↗]](https://hal.science/hal-05187289/document)
+
+---
+
+### 🎵 [Moroccan Music Dataset](https://www.kaggle.com/datasets/ac0hik/moroccan-music-data)
+Curated dataset of Moroccan music — used to train the music genre classifier and referenced in independent research for Moroccan music generation via diffusion models.
+
 
 ![banner](./assets/banner.gif)
